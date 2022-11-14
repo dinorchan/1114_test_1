@@ -1,0 +1,150 @@
+{
+  "name": "summary_statistics",
+  "returnCode": "0",
+  "returnValue": [
+      {
+          "c_id": 1,
+          "b_name": "优秀学员",
+          "b_status": "加分",
+          "b_score": 0.1
+      },
+      {
+          "c_id": 2,
+          "b_name": "团队比赛第一",
+          "b_status": "加分",
+          "b_score": 0.1
+      },
+      {
+          "c_id": 3,
+          "b_name": "培训心得入选学习园地",
+          "b_status": "加分",
+          "b_score": 0.2
+      },
+      {
+          "c_id": 4,
+          "b_name": "受到老师特别表扬",
+          "b_status": "加分",
+          "b_score": 0.3
+      },
+      {
+          "c_id": 5,
+          "b_name": "缺勤",
+          "b_status": "减分",
+          "b_score": -2
+      },
+      {
+          "c_id": 6,
+          "b_name": "私自找人代培",
+          "b_status": "减分",
+          "b_score": -2
+      },
+      {
+          "c_id": 7,
+          "b_name": "未经批准的早退",
+          "b_status": "减分",
+          "b_score": -1
+      },
+      {
+          "c_id": 8,
+          "b_name": "迟到",
+          "b_status": "减分",
+          "b_score": -0.5
+      },
+      {
+          "c_id": 9,
+          "b_name": "上课手机响",
+          "b_status": "减分",
+          "b_score": -0.5
+      },
+      {
+          "c_id": 10,
+          "b_name": "带两个手机混淆视听",
+          "b_status": "减分",
+          "b_score": -1
+      },
+      {
+          "c_id": 11,
+          "b_name": "手机不入袋（包括课间休息后不入袋）",
+          "b_status": "减分",
+          "b_score": -1
+      },
+      {
+          "c_id": 12,
+          "b_name": "上课睡觉",
+          "b_status": "减分",
+          "b_score": -0.5
+      },
+      {
+          "c_id": 13,
+          "b_name": "未穿工作服",
+          "b_status": "减分",
+          "b_score": -0.2
+      },
+      {
+          "c_id": 14,
+          "b_name": "上课穿拖鞋",
+          "b_status": "减分",
+          "b_score": -0.2
+      },
+      {
+          "c_id": 15,
+          "b_name": "未带培训本和笔",
+          "b_status": "减分",
+          "b_score": -0.1
+      },
+      {
+          "c_id": 16,
+          "b_name": "椅子不归位（含餐椅）",
+          "b_status": "减分",
+          "b_score": -0.1
+      },
+      {
+          "c_id": 17,
+          "b_name": "抽屉有垃圾未清理",
+          "b_status": "减分",
+          "b_score": -0.1
+      },
+      {
+          "c_id": 18,
+          "b_name": "水杯未清洗、未放回原位",
+          "b_status": "减分",
+          "b_score": -0.1
+      },
+      {
+          "c_id": 19,
+          "b_name": "影响他人午休",
+          "b_status": "减分",
+          "b_score": -0.1
+      },
+      {
+          "c_id": 20,
+          "b_name": "浪费粮食，倾倒饭菜",
+          "b_status": "减分",
+          "b_score": -0.5
+      },
+      {
+          "c_id": 21,
+          "b_name": "食后餐具不分类摆放",
+          "b_status": "减分",
+          "b_score": -0.5
+      },
+      {
+          "c_id": 22,
+          "b_name": "汽车未按规定停放（车头朝里或堵塞通道）",
+          "b_status": "减分",
+          "b_score": -0.2
+      },
+      {
+          "c_id": 23,
+          "b_name": "管理者未完成课后测试",
+          "b_status": "减分",
+          "b_score": -0.2
+      },
+      {
+          "c_id": 24,
+          "b_name": "睡觉",
+          "b_status": "减分",
+          "b_score": -0.2
+      }
+  ]
+}

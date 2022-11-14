@@ -1,0 +1,19 @@
+
+ACTION_ADD = "add"
+ACTION_PUT = "put"
+ACTION_DELETE = "delete"
+
+ACTION_INPUT = "input"
+ACTION_OUTPUT = "output"
+
+HTTP_OK = 200
+HTTP_CREATE_OK = 201
+HTTP_PUT_OK = 202
+HTTP_DELETE_OK = 204
+
+COURSE_ENDED = "past"
+COURSE_NOT_STARTED = "future"
+COURSE_ONGOING = "ongoing"
+
+QUERY_MODE_COURSE = "course"
+QUERY_MODE_MEMBER = "member"
